@@ -1,0 +1,3 @@
+po_number,region,supplier_id,material_code,ordered_qty,unit_price_usd,order_date
+PO-W-3001,West,SUP-7701,MAT-ALB-01,100,130.00,2026-11-20
+PO-W-3002,West,SUP-6602,MAT-INS-02,50,525.00,2026-11-21

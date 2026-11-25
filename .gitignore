@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+logs/*.log
+
+# Actual configuration
+config/config.ini
+
+# Environment variables
+.env

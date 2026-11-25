@@ -1,0 +1,4 @@
+po_number,region,supplier_id,material_code,ordered_qty,unit_price_usd,order_date
+PO-S-2001,South,SUP-3301,MAT-ALB-01,150,125.00,2026-11-20
+PO-S-2002,South,SUP-5502,MAT-INS-02,80,500.00,2026-11-21
+PO-S-2003,South,SUP-3301,MAT-PAR-05,300,20.25,2026-11-22

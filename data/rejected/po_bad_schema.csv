@@ -1,0 +1,3 @@
+po_number,region,supplier_id,material_code,ordered_qty,order_date
+PO-B-4001,West,SUP-9901,MAT-ALB-01,100,2026-11-22
+PO-B-4002,West,SUP-9902,MAT-INS-02,50,2026-11-23
